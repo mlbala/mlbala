@@ -32,16 +32,17 @@ I build LLM applications that hold up outside a demo: retrieval pipelines, multi
 | **Evals & guardrails** | LLM-as-judge, groundedness checks, input/output guardrails, prompt-injection defences, LLM gateways |
 | **Observability** | Tracing, monitoring and debugging of LLM and agent runs |
 | **Backend & data** | Python (asyncio, threading), PostgreSQL, REST APIs |
-| **Cloud & tooling** | AWS, Git/GitHub, Jupyter, Claude Code |
+| **Cloud & tooling** | Azure, Git/GitHub, Jupyter, Claude Code |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 ## Currently exploring
 
