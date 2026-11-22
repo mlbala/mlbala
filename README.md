@@ -67,7 +67,9 @@ I build LLM applications that hold up outside a demo: retrieval pipelines, multi
 
 ## Currently exploring
 
-MCP, multi-agent orchestration, context and harness engineering, and prompt-injection defences for agent apps.
+- **Harness & loop engineering:** building the control loops, checks and context around agents so they finish the job reliably
+- **Guardrails & AI governance:** policy, safety controls, auditability and human oversight for LLM and agent systems
+- **Forward Deployed Engineering (FDE):** taking AI systems from prototype to production inside real customer environments
 
 ## Get in touch
 
