@@ -22,16 +22,26 @@ I build LLM applications that hold up outside a demo: retrieval pipelines, multi
 | [Rag-doc-analysis-portal](https://github.com/mlbala/Rag-doc-analysis-portal) | Document analysis, comparison and chat portal on RAG, deployed on AWS |
 | [rag-bootcamp](https://github.com/mlbala/rag-bootcamp) | RAG from fundamentals to agentic pipelines, as runnable notebooks |
 
-## Tech I use
+## AI engineering skill stack
+
+| Area | What I use |
+|---|---|
+| **Agents & orchestration** | LangGraph, LangChain, multi-agent and deep-agent patterns, ReAct, human-in-the-loop, tool calling, MCP |
+| **RAG & retrieval** | Agentic RAG, chunking and embedding strategies, hybrid search, reranking, Pinecone, vector databases |
+| **LLMs & prompting** | OpenAI, Claude, prompt, context and harness engineering, structured outputs, function calling |
+| **Evals & guardrails** | LLM-as-judge, groundedness checks, input/output guardrails, prompt-injection defences, LLM gateways |
+| **Observability** | Tracing, monitoring and debugging of LLM and agent runs |
+| **Backend & data** | Python (asyncio, threading), PostgreSQL, REST APIs |
+| **Cloud & tooling** | AWS, Git/GitHub, Jupyter, Claude Code |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-Also: vector databases (Pinecone), Tavily, MCP, Jupyter.
 
 ## Currently exploring
 
