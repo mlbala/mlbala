@@ -18,9 +18,11 @@ I build LLM applications that hold up outside a demo: retrieval pipelines, multi
 | [hierarchical-research-agents](https://github.com/mlbala/hierarchical-research-agents) | Multi-agent research platform: specialised agents produce evidence-backed reports, with a UI, PostgreSQL storage and guardrails |
 | [agentic-refund-automation-hitl](https://github.com/mlbala/agentic-refund-automation-hitl) | LangGraph ReAct agent with human-in-the-loop approval: auto-processes small refunds, routes larger ones for review |
 | [arie](https://github.com/mlbala/arie) | arXiv research-paper RAG chat: one chat per PDF, answers grounded in the paper |
+| [learnlens-ai](https://github.com/mlbala/learnlens-ai) | Evidence-grounded YouTube/media learning companion, designed on Neon and Qdrant Cloud |
+| [archai](https://github.com/mlbala/archai) | AI solutions architect for the terminal: turns requirements into full or component-level AI system designs |
+| [aipm](https://github.com/mlbala/aipm) | AI product manager for the terminal: gathers requirements, plans tasks and writes prompts and AGENTS.md for Claude Code, Codex, Copilot and Gemini CLI |
 | [ai-guardrails-lab](https://github.com/mlbala/ai-guardrails-lab) | Hands-on guardrails for LLMs and agents: gateways, evals, observability |
 | [Rag-doc-analysis-portal](https://github.com/mlbala/Rag-doc-analysis-portal) | Document analysis, comparison and chat portal on RAG, deployed on AWS |
-| [rag-bootcamp](https://github.com/mlbala/rag-bootcamp) | RAG from fundamentals to agentic pipelines, as runnable notebooks |
 
 ## AI engineering skill stack
 
